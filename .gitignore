@@ -1,0 +1,21 @@
+# === Fichiers Java compilés ===
+*.class
+
+# === Dossiers de build ===
+/bin/
+/build/
+/target/
+
+# === Fichiers de logs ou temporaires ===
+*.log
+*.tmp
+
+# === Fichiers de configuration locaux ===
+*.env
+
+# === Paramètres de VS Code ===
+.vscode/
+
+# === Fichiers système ===
+.DS_Store
+Thumbs.db
